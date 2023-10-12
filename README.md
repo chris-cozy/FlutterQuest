@@ -21,7 +21,7 @@ Unity 2020 or later
 ## Contributions
 We welcome contributions from the community. If you find bugs or want to enhance the game, feel free to create issues or pull requests. Your feedback is invaluable, and together we can make this game even better!
 
-License
+## License
 This project is licensed under the MIT License.
 
 Enjoy the game and happy gaming! 🎮
